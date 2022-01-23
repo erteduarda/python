@@ -1,2 +1,6 @@
-# game_l1_pyhon
-First project with python. Game 1.
+# Python
+
+Repository intended for python studies.
+
+## Level 1
+    * know the language.
